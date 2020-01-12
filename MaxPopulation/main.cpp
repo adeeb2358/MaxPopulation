@@ -72,6 +72,7 @@ void findDelta(std::vector<int> &deltaYear ,
     }
 }
 
+
 int maxPopulationIndex(std::vector<int> deltaYear){
     int maxPopIndex   = 0;
     int runningSum    = 0;
